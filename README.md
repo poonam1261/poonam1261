@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Poonam 
-- 👀 I’m interested in Machine Learning and Artificial Intelligence along with wed Development
+- 👀 I’m interested in Machine Learning and Artificial Intelligence along with web Development
 - 🌱 I’m currently learning CNN and Computer Vision and Python Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
